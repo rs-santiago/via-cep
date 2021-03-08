@@ -1,0 +1,23 @@
+{
+    "name": "webviacep/via-cep",
+    "description": "Busca de cep online",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Rodrigo Santiago",
+            "email": "rs.santiago1997@gmail.com"
+        }
+    ],
+    "require": {
+        "PHP": ">=7.2.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "Search": "src/"
+        },
+        "psr-4": {
+            "Webviacep\\viaCep\\": "src"
+        }
+    }
+}
