@@ -1,0 +1,4 @@
+Search
+ [x] Get address fro zipcode default usage with data set "Endereço praça da Sé impar"
+ [x] Get address fro zipcode default usage with data set "Endereço praça da Sé par"
+
